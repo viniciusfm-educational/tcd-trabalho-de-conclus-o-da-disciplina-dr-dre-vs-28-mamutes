@@ -19,8 +19,7 @@ Oferecemos desde seminovos criteriosamente selecionados até modelos premium e e
 Mais do que apenas comercializar veículos, na Dell’Auto buscamos transformar sua experiência automotiva em algo simples, seguro e marcante. Aqui, você encontra o carro ideal com o respaldo de quem entende e valoriza a paixão por dirigir.  
 
 
-
-| ## TODO List                         |
+| TODO List                            |
 |--------------------------------------|
 | Definir o esqueleto do projeto       |
 |--------------------------------------|
