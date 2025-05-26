@@ -10,6 +10,8 @@ Projeto Dell'Auto
 | Nathan Elias Oliveira Martins (@NathanEliasOliveiraMatins) |
 | Guilherme Oliveira Rodrigues (@GuilhermeOliveiraRodrigues7)|
 | Ericson Pablo Diniz Siqueira (@EricsonPablo)               |
+| Guilherme Duarte Manfrin
+(GDM77)
 
 ## Descrição de nossa empresa
 Na Dell’Auto, cada veículo carrega uma história, e nossa missão é conectá-lo àquela que combina perfeitamente com você. Somos uma empresa referência no setor automotivo, dedicada a oferecer excelência, transparência e confiança em cada atendimento. Nossa equipe, formada por especialistas apaixonados por automóveis, atua com foco em compra, venda, avaliação e consultoria automotiva, sempre alinhada às necessidades e ao perfil de cada cliente.  
